@@ -27,7 +27,7 @@ def setup_can():
     address = isotp.Address(
         addressing_mode=isotp.AddressingMode.Normal_11bits,
         txid=0x713,  # TX ID  (tester → ECU)
-        rxid=0x77D   # RX ID odbioru  (ECU → tester)
+        rxid=0x77D   # RX ID  (ECU → tester)
     )
     stack = isotp.CanStack(
         bus=bus,
