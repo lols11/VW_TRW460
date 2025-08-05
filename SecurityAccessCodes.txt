@@ -1,19 +1,19 @@
-10815 - Dev messages adaptation
-11122 - XCP adaptation
+10815 - Dev messages [ADAP]
+11122 - XCP [ADAP]
 11223 - Dev mode 
 11966 
 14108
-15081
+15081 - TPMS [ADAP]
 18250
-20103
-24435
+20103 - Developer_Function_111 [ADAP]
+24435 - Running manufacturer number [ADAP]
 24990
 25004
 25377
 25757
 32304
-33776
-33777
+33776 - Developer_Function_1; First 20 EEPROM bytes [ADAP]
+33777 - Developer_Function_4; Developer_Function_5 [ADAP]
 33799
 37201
 37202
@@ -24,8 +24,8 @@
 56555
 56598
 58911
-71283
+71283 - Function counter [ADAP]
 74999
 75201
-75202
+75202 - Developer_Function_120; TPMS error injection. Developer_Function_121;TPMS tour mode [ADAP]
 87503
