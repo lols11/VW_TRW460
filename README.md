@@ -1,38 +1,9 @@
 # VW_TRW460
-stuff
+stuff. RE ABS pump used in VAG cars and produced by TRW Automotive 
 
-A bit of brute-force. 
-There might be a few missing because my setup was poor
+SecurityAccessCodes.txt - List of bruteforced security access codes with description. There might be a few missing because my setup was poor
 
-Security access:
-10815 - Dev messages adap
-11122 - XCP
-11223 - Dev mode 
-11966 
-14108
-15081
-18250
-20103
-24435
-24990
-25004
-25377
-25757
-32304
-33776
-33777
-33799
-37201
-37202
-37203
-37483
-40168
-40304
-56555
-56598
-58911
-71283
-74999
-75201
-75202
-87503
+
+UDSInfo.txt - List of identified implemented UDS services and discovered Data Identifiers (DID)
+
+dumpEep.py - Python script for dumping EEPROM from ABS using socketcan and UDS 0x23. 
